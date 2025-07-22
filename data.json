@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "name": "Paneer Butter Masala",
+      "desc": "Creamy paneer cooked in buttery tomato gravy.",
+      "image": "assets/food.jpg"
+    },
+    {
+      "name": "Aloo Paratha",
+      "desc": "Stuffed with spicy potato, best with curd!",
+      "image": "assets/food.jpg"
+    },
+    {
+      "name": "Masala Chai",
+      "desc": "Kadak chai with ginger and spices!",
+      "image": "assets/food.jpg"
+    }
+  ]
+}
